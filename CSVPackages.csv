@@ -1,7 +1,4 @@
-"Package
-ID",Address,City ,Zip,"Mass
-KILO","Delivery
-Deadline",page 1 of 1PageSpecial Notes
+ID,Address,City ,Zip,Mass,Deadline,Special Notes
 1,195 W Oakland Ave,Salt Lake City,84115,21,10:30 AM,
 2,2530 S 500 E,Salt Lake City,84106,44,EOD,
 3,233 Canyon Rd,Salt Lake City,84103,2,EOD,Can only be on truck 2
@@ -23,7 +20,7 @@ Deadline",page 1 of 1PageSpecial Notes
 19,177 W Price Ave,Salt Lake City,84115,37,EOD,
 20,3595 Main St,Salt Lake City,84115,37,10:30 AM,"Must be delivered with 13, 15"
 21,3595 Main St,Salt Lake City,84115,3,EOD,
-22,6351 South 900 East,Murray,84121,2,EOD,
+22,6351 S 900 East,Murray,84121,2,EOD,
 23,5100 South 2700 West,Salt Lake City,84118,5,EOD,
 24,5025 State St,Murray,84107,7,EOD,
 25,5383 S 900 East #104,Salt Lake City,84117,7,10:30 AM,Delayed on flight---will not arrive to depot until 9:05 am
